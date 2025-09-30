@@ -1,7 +1,5 @@
 # CodeAlpha_Task2_PhishingAwareness
-"Phishing Awareness Training project for CodeAlpha Cyber Security Internship.”
-# CodeAlpha Task 2 - Phishing Awareness Training
-
+"Phishing Awareness Training project for CodeAlpha Cyber Security Internship.
 ## 📌 Overview
 This is my second project for the **CodeAlpha Cyber Security Internship**.  
 It is a **Phishing Awareness Training Module** designed to spread awareness about phishing attacks, detection methods, and best practices to stay safe online.
